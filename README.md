@@ -1,2 +1,2 @@
 # pyLogger
-A keylogger in python onl for windows.
+A keylogger in python only for windows.
