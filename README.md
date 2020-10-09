@@ -17,7 +17,7 @@ Enable less secure apps option in your google account settings:\
 ![](imgs\img_2.jpg)
 
 Next set your frequency of email, Email Address and Password in the [utils.py](utils.py) file, line 6:\
-![](imgs\img_1.jpg)
+![](imgs\img_1.JPG)
 
 To start the keylogger type:\
 **python3 WinPyLogger.py**
