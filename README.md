@@ -14,7 +14,7 @@ Then type:\
 
 
 Enable less secure apps option in your google account settings:\
-![](imgs/img_2.jpg)
+![](imgs/img_2.JPG)
 
 Next set your frequency of email, Email Address and Password in the [utils.py](utils.py) file, line 6:\
 ![](imgs/img_1.JPG)
@@ -36,7 +36,7 @@ This can be operated from any OS. But the target machine should be Windows.\
 If you are using Linux, use python 3.6
 
 Virus detection report:
-![](imgs/virus_scan.jpg)
+![](imgs/virus_scan.JPG)
 
 Any problems, open an issue.
 
