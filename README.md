@@ -29,7 +29,7 @@ If you want to select an icon of your own for your executable, choose 'no' when 
 After the file is generated, it will be saved in the dist folder. You can delete all other extra files and folders such as build and .specs if you don't want them.
 
 
-Right now, the keylogger can only be stopped from the target machine. If you have got some way to stop it from the user machine or want to give any suggestions, DM me on [Instagram](https://www.instagram.com/_imad._.1/).\
+**Right now, the keylogger can only be stopped from the target machine. If you have got some way to stop it from the user machine or want to give any suggestions, DM me on [Instagram](https://www.instagram.com/_imad._.1/).**\
 To stop the keylogger, open taskmanager on the target machine and stop the exe file.
 
 This can be operated from any OS. But the target machine should be Windows.\
