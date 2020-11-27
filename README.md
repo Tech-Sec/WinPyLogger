@@ -38,7 +38,7 @@ If you are using Linux, use python 3.6
 Virus detection report:
 ![](imgs/virus_scan.JPG)
 
-The antivirus of your target detcts this keylogger ?
+**The antivirus of your target detcts this keylogger ?**
 Here are some tips to make it FUD (fully undetectable):
 1. The best tip and most effective way to make our keylogger is adding trash code and changing the code a bit. Change the names of the variables in utils.py file and some trash code, anything such as useless variables add some useless functions etc. Trash code should be atleast 100 lies of code.
 2. Make sure to add an icon to the finel exe file, this too helps in bypassing antiviruses. This function is by default in WinPyLogger.
